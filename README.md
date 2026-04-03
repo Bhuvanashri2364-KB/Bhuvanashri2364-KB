@@ -1,49 +1,60 @@
 # Hi, I'm Bhuvanashri Katari Balaji 👋
 
+**Aspiring Data Analyst | SQL • Python • Power BI**
+
 🎓 MS Computer Science — Missouri University of Science & Technology
-📊 Aspiring Data Analyst | SQL • Python • Power BI
 📍 Rolla, Missouri, USA
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-I build end-to-end data projects that transform raw datasets into actionable business insights.
-My work focuses on data cleaning, exploratory data analysis, and creating dashboards that support decision-making.
+I design end-to-end data analytics solutions that transform raw datasets into actionable business insights.
+
+My work focuses on:
+
+* Building data pipelines (ETL) using Python
+* Performing deep exploratory data analysis to uncover patterns and inefficiencies
+* Developing interactive dashboards that support data-driven decision-making
+
+I approach problems from both a technical and business perspective — not just building dashboards, but identifying real-world impact.
 
 ---
 
 ## 📊 Featured Work
 
-* **Sales Performance Analysis**
-  Analyzed 10K+ retail transactions to identify profit leakage and the negative impact of discounting on margins.
+* 🔹 **Sales Performance Analysis**
+  Identified profit leakage and pricing inefficiencies across 10K+ retail transactions, enabling data-driven pricing strategy improvements.
 
-* **Customer Churn Analysis**
-  Built customer segmentation (RFM) to identify high-risk churn segments and potential retention opportunities.
+* 🔹 **Customer Churn Analysis (RFM-Based Segmentation)**
+  Segmented customers based on behavior to detect high-risk churn groups and recommend targeted retention strategies.
 
-* **Supply Chain Analytics**
-  Evaluated inventory and delivery data to uncover inefficiencies and improve operational performance.
+* 🔹 **Supply Chain Risk & Performance Analysis**
+  Analyzed supplier delays and product risk patterns to uncover operational inefficiencies and improve supply chain stability.
 
 ---
 
 ## 🧠 Skills
 
-* **Languages:** Python, SQL
-* **Libraries:** Pandas, NumPy
-* **Tools:** Power BI, Excel, Jupyter Notebook
-* **Concepts:** Data Cleaning, EDA, Data Visualization, Business Insights
+* **Programming & Analysis:** Python (Pandas, NumPy), SQL
+* **Data Visualization:** Power BI (DAX, KPI dashboards), Excel
+* **Core Skills:** Data Cleaning, EDA, Feature Engineering, Business Insights
+* **Data Techniques:** Segmentation (RFM), Trend Analysis, Risk Analysis
 
 ---
 
 ## ⚡ What I’m Currently Working On
 
-* Job Market Analysis Project (real-world dataset)
-* Advanced SQL & data modeling
-* Building end-to-end data pipelines (ETL)
+* Building a **Job Market Intelligence Project (End-to-End Analytics)**
+* Advanced SQL and data modeling
+* Developing scalable data pipelines (ETL)
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/katari-balaji-bhuvanashri/
-* Email: kataribhuvana2364@gmail.com
+* 🔗 LinkedIn: https://www.linkedin.com/in/katari-balaji-bhuvanashri/
+* 📧 Email: kataribhuvana2364@gmail.com
+---
+
+⭐ *Focused on building data-driven solutions that solve real-world business problems*
