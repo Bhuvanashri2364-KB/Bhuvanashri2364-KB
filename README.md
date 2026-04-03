@@ -16,13 +16,13 @@ My work focuses on data cleaning, exploratory data analysis, and creating dashbo
 ## 📊 Featured Work
 
 * **Sales Performance Analysis**
-  Identified profit leakage and discount impact across product categories.
+  Analyzed 10K+ retail transactions to identify profit leakage and the negative impact of discounting on margins.
 
 * **Customer Churn Analysis**
-  Segmented customers to identify high-risk churn groups and retention opportunities.
+  Built customer segmentation (RFM) to identify high-risk churn segments and potential retention opportunities.
 
 * **Supply Chain Analytics**
-  Analyzed inventory and delivery performance to improve operational efficiency.
+  Evaluated inventory and delivery data to uncover inefficiencies and improve operational performance.
 
 ---
 
@@ -32,6 +32,14 @@ My work focuses on data cleaning, exploratory data analysis, and creating dashbo
 * **Libraries:** Pandas, NumPy
 * **Tools:** Power BI, Excel, Jupyter Notebook
 * **Concepts:** Data Cleaning, EDA, Data Visualization, Business Insights
+
+---
+
+## ⚡ What I’m Currently Working On
+
+* Job Market Analysis Project (real-world dataset)
+* Advanced SQL & data modeling
+* Building end-to-end data pipelines (ETL)
 
 ---
 
