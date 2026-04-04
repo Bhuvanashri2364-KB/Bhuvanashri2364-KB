@@ -7,17 +7,13 @@
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I design end-to-end data analytics solutions that transform raw datasets into actionable business insights.
+I’m a Data Analyst who focuses on solving real business problems using data.
 
-My work focuses on:
+Instead of just building dashboards, I analyze why problems happen — like profit leakage, customer churn, and operational inefficiencies — and translate data into actionable insights.
 
-* Building data pipelines (ETL) using Python
-* Performing deep exploratory data analysis to uncover patterns and inefficiencies
-* Developing interactive dashboards that support data-driven decision-making
-
-I approach problems from both a technical and business perspective — not just building dashboards, but identifying real-world impact.
+My work combines SQL, Python, and visualization tools to deliver end-to-end analytics solutions.
 
 ---
 
