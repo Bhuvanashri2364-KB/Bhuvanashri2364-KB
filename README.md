@@ -21,13 +21,16 @@ I approach problems from both a technical and business perspective — not just 
 
 ---
 
-📊 Featured Work
-🔹 Retail Profitability Analysis
-Identified revenue leakage and pricing inefficiencies, improving margin-focused decision-making.
-🔹 Customer Churn Analysis (RFM-Based Segmentation)
-Segmented customers to detect churn risk and designed retention-focused strategies.
-🔹 Supply Chain Risk & Performance Analysis
-Analyzed supplier delays and product risk patterns to uncover operational inefficiencies.
+## 📊 Featured Work
+
+* 🔹 **Retail Profitability Analysis**
+  Identified revenue leakage and pricing inefficiencies across retail data, enabling profit-focused decision-making and margin optimization.
+
+* 🔹 **Customer Churn Analysis (RFM-Based Segmentation)**
+  Segmented customers based on behavior to detect high-risk churn groups and designed targeted retention strategies to improve customer lifetime value.
+
+* 🔹 **Supply Chain Risk & Performance Analysis**
+  Analyzed supplier delays, product risk, and demand patterns to uncover operational inefficiencies and improve supply chain stability.
 
 ---
 
