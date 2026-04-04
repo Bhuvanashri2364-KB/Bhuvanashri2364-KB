@@ -20,6 +20,8 @@ My work combines SQL, Python, and visualization tools to deliver end-to-end anal
 
 ## 📌 Featured Projects
 
+👉 Explore detailed projects in pinned repositories below
+
 🔹 **Retail Sales Analysis**  
 → Identified profit leakage due to high discount strategies  
 → Found that furniture category had high sales but low profitability  
