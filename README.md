@@ -12,71 +12,88 @@
 
 I’m a Data Analyst focused on solving real-world business problems using data.
 
-I don’t just build dashboards — I analyze why problems happen, uncover patterns, and translate data into actionable insights. My work focuses on areas like profit optimization, customer behavior, and operational efficiency.
+Instead of just building dashboards, I analyze why problems happen — like profit leakage, customer churn, and operational inefficiencies — and translate data into actionable insights.
 
-I use SQL, Python, and Power BI to build end-to-end analytics solutions — from raw data to decision-making.
-
----
-
-## 📊 What I Bring
-
-- Strong analytical thinking and problem-solving approach  
-- Ability to uncover hidden patterns and business insights  
-- Experience working with real-world datasets  
-- Focus on impact, not just visuals  
+My work combines SQL, Python, and visualization tools to deliver end-to-end analytics solutions.
 
 ---
 
-## 📌 Featured Work
+## 📌 Featured Projects
 
-🔹 Retail Profitability Analysis  
-🔹 Customer Churn Analysis (RFM-Based)  
-🔹 Supply Chain Performance Analysis  
-
-👉 Check pinned repositories for detailed projects
-
----
-
-## 📊 Key Insights
-
-- Higher discounts lead to reduced profitability  
-- Customer churn is concentrated in low-value segments  
-- Operational inefficiencies impact delivery performance  
-- High sales do not always translate to high profit  
+🔹 **Retail Sales Analysis**  
+→ Identified profit leakage due to high discount strategies  
+→ Found that furniture category had high sales but low profitability  
+→ Suggested pricing optimization strategy  
+🛠️ Tools: Python • SQL • Power BI  
 
 ---
 
-## ⚙️ How I Work
+🔹 **Customer Churn Analysis (RFM-Based)**  
+→ Segmented customers into risk categories using RFM model  
+→ Identified high-risk churn users and potential revenue loss  
+→ Suggested targeted retention strategies  
+🛠️ Tools: Python • SQL  
 
-1. Understand the business problem  
-2. Clean and structure data  
-3. Perform exploratory analysis  
-4. Generate insights  
-5. Build dashboards for decisions  
+---
+
+🔹 **Supply Chain Analytics**  
+→ Analyzed delivery delays and inventory inefficiencies  
+→ Identified operational bottlenecks affecting performance  
+→ Provided insights to improve delivery reliability  
+🛠️ Tools: Power BI • Excel  
+
+---
+
+## 📊 Key Insights Across Projects
+
+- Higher discounts consistently reduce profitability  
+- Customer churn is concentrated in low-frequency, low-value segments  
+- Operational delays directly impact delivery efficiency  
+- High sales ≠ High profit (profit leakage identified)
+
+---
+
+## ⚙️ My Workflow
+
+1. Understand business problem  
+2. Clean and prepare data (Python / SQL)  
+3. Perform exploratory data analysis  
+4. Generate insights and validate patterns  
+5. Build dashboards for decision-making  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:** Python, SQL  
-**Tools:** Power BI, Excel, Jupyter  
-**Concepts:** Data Cleaning, EDA, Data Visualization  
+**Libraries:** Pandas, NumPy  
+**Tools:** Power BI, Excel, Jupyter Notebook  
+**Concepts:** Data Cleaning, EDA, Data Visualization, Business Insights  
 
 ---
 
-## 🚀 Currently Working On
+## 📈 What Makes My Work Different
 
-- Job Market Analysis Project (real-world dataset)  
-- Advanced SQL & data modeling  
-- Building ETL pipelines  
+- Focus on business impact, not just visuals  
+- Strong emphasis on data cleaning and accuracy  
+- Ability to translate insights into decisions  
 
 ---
 
-## 🤝 Connect With Me
+## ⚡ Currently Working On
+
+- 📊 Job Market Analysis Project (real-world dataset)  
+- 🧠 Advanced SQL & data modeling  
+- ⚙️ Building end-to-end ETL pipelines  
+
+---
+
+## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/katari-balaji-bhuvanashri/  
 - 📧 Email: kataribhuvana2364@gmail.com  
 
 ---
 
-⭐ If you find my work interesting, feel free to explore my repositories!
+⭐ If you like my work, feel free to explore my repositories and connect!
+
